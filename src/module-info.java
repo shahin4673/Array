@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Toufique
+ *
+ */
+module Array {
+}
